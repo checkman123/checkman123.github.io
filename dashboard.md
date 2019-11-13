@@ -1,8 +1,10 @@
 ## Dashboard Application (Qt Creator)
 
-**Project description:** This is amulti-functional home/office dashboard app. 
-It has a world clock, local clock, todo list, photo display, and weather display.
+**Project description:** This is a multi-functional home/office dashboard app. 
+It has a world clock, local clock, todo list, photo display, and weather display. The user can use zip code to see weather information in the specified area.
 
-Learn how to use OpenWeaterMap API and Bing Map API (HTTP Request).
+**Skills**
+- The use of OpenWeatherMap API and Bing Map API (HTTP Request).
+- UI/UX Design  
 
   <a href="https://github.com/checkman123/Dashboard-Application">View My Dashboard Project Files</a> 
