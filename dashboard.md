@@ -1,4 +1,4 @@
-## Dashboard Application (Qt)
+## Dashboard Application (Qt Creator)
 
 **Project description:** This is amulti-functional home/office dashboard app. 
 It has a world clock, local clock, todo list, photo display, and weather display.
