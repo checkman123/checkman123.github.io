@@ -4,11 +4,11 @@
 
 ### Projects 
 
-[Dashboard Application](/dashboard)
+### [Dashboard Application](/dashboard)
 <img src="images/p1.PNG?raw=true"/>
 
 ---
-[Painter Application](/painter)
+### [Painter Application](/painter)
 <img src="images/p2.PNG?raw=true"/>
 
 ---
