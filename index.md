@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Dashboard Application](/sample_page)
 <img src="images/p1.PNG?raw=true"/>
 
 ---
