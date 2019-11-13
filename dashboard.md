@@ -5,4 +5,4 @@ It has a world clock, local clock, todo list, photo display, and weather display
 
 Learn how to use OpenWeaterMap API and Bing Map API (HTTP Request).
 
-  <a href="https://www.https://github.com/checkman123/Dashboard-Application">View Project</a> 
+  <a href="https://github.com/checkman123/Dashboard-Application">View My Dashboard Project Files</a> 
