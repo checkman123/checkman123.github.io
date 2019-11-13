@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Dashboard Application](/dashboard)
 <img src="images/p1.PNG?raw=true"/>
