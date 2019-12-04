@@ -1,3 +1,7 @@
+## [Resume](/resume)
+
+---
+
 ## Portfolio
 
 ---
