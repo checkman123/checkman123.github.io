@@ -5,8 +5,11 @@
 ### Projects 
 
 ### [Dashboard Application](/dashboard)
-<img src="images/p1.PNG?raw=true"/>
+* OpenWeatherMap API and Bing Map API (HTTP Request)
+* Database Management
+* Open/Read External File
 
+<img src="images/p1.PNG?raw=true"/>
 ---
 ### [Painter Application](/painter)
 <img src="images/p2.PNG?raw=true"/>
