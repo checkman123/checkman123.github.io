@@ -1,4 +1,4 @@
-## [Resume](/resume)
+## My Resume(/dashboard)
 
 ---
 
