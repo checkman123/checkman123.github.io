@@ -1,7 +1,3 @@
-## [My Resume](/resume)
-
----
-
 ## Portfolio
 
 ---
