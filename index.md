@@ -13,6 +13,11 @@
 
 ---
 
+### [Interactive TicTacToe](/tictactor)
+<img src="images/tictactoe.PNG?raw=true"/>
+
+---
+
 ### [Painter Application](/painter)
 <img src="images/p2.PNG?raw=true"/>
 
