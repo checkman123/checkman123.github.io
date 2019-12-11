@@ -4,7 +4,7 @@
 
 ### Projects 
 
-### [Dashboard Application](/dashboard)
+### [Dashboard Application](/dashboard) (June 2019)
 * OpenWeatherMap API and Bing Map API (HTTP Request)
 * Database Management
 * Open/Read External File
@@ -13,12 +13,12 @@
 
 ---
 
-### [Interactive TicTacToe](/tictactoe)
+### [Interactive TicTacToe](/tictactoe) (April 2019)
 <img src="images/tictactoe.PNG?raw=true"/>
 
 ---
 
-### [Painter Application](/painter)
+### [Painter Application](/painter) (March 2019)
 <img src="images/p2.PNG?raw=true"/>
 
 ---
