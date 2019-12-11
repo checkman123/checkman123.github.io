@@ -13,7 +13,7 @@
 
 ---
 
-### [Interactive TicTacToe](/tictactor)
+### [Interactive TicTacToe](/tictactoe)
 <img src="images/tictactoe.PNG?raw=true"/>
 
 ---
