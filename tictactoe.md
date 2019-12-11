@@ -8,4 +8,4 @@
 - UI/UX Design with theme of Cat vs Dog for attractiveness
 
 
-<a href="https://github.com/checkman123/PaintApp">View My TicTacToe Project Files</a> 
+<a href="https://github.com/checkman123/Tic-Tac-Toe-Game">View My TicTacToe Project Files</a> 
