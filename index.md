@@ -34,7 +34,7 @@
 ---
 
 ### [Into the Endless Dream](/dream) (December 2019)
-* "Ongoing Project"
+* **Ongoing Project**
 * Unity with C#
 * Designed and Animated 2D character models using Clip Studio Paint and in-bult Unity Animator
 *	Implemented 2D physics engine using collision detection
