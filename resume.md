@@ -1,1 +1,1 @@
-<img src="images/resume.PNG?raw=true"/>
+<img src="images/Resume.PNG?raw=true"/>
