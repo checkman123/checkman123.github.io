@@ -4,6 +4,14 @@
 
 ### Projects 
 
+### [Ho Web Application](/ho) (June 2020)
+* React with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
+* UI/UX Design
+
+<img src="images/ho-1.png?raw=true"/>
+
+---
+
 ### [Dashboard Application](/dashboard) (June 2019)
 * Qt with C++
 * OpenWeatherMap API and Bing Map API (HTTP Request)
