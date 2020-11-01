@@ -18,3 +18,6 @@ Figure 2
 Figure 3
 <br/>
 <img src="images/ho-3.png?raw=true"/>
+Figure 4
+<br/>
+<img src="images/ho-4.png?raw=true"/>
