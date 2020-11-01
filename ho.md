@@ -14,11 +14,10 @@ Figure 1
 Figure 2
 <br/>
 <img src="images/ho-2.png?raw=true"/>
+<img src="images/ho-4.png?raw=true"/>
 <br/>
 Figure 3
 <br/>
 <img src="images/ho-3.png?raw=true"/>
 <br/>
-Figure 4
-<br/>
-<img src="images/ho-4.png?raw=true"/>
+
